@@ -1,0 +1,4 @@
+baseURL = 'https://grcdev.com.br/'
+locale = 'pt-br'
+title = 'GRC Dev'
+theme = 'hextra'
